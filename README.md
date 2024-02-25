@@ -1,6 +1,6 @@
 <img src="images/svg/header.svg"></img>
 
-## ⚡️ A Few Quick Facts
+# 💫 About Me:
 
 - 🔭 I’m currently working as a Machine Learning Engineer at **[TensorLabs](https://tensorlabs.io/)**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
@@ -78,8 +78,13 @@
     <p align="center">
       <img height="20%" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsuhail1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     </p>
-
 <hr/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ahmadsuhail1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' align=center />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmadsuhail1&icon=5&color=0)](https://visitcount.itsvg.in)
