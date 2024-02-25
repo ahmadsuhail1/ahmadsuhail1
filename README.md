@@ -59,9 +59,9 @@
 
 
 <details>
-<summary><b> &nbsp; Tool </b></summary>
-  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+<summary><b> &nbsp; Softwares and Tools </b></summary>
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white") ![Dbeaver](https://custom-icon-badges.demolab.com/badge/-Dbeaver-372923?logo=dbeaver-mono&logoColor=white) ![Discord](https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white) ![OBS Studio](https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
 
 </details>
     
