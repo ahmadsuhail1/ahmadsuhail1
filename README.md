@@ -1,5 +1,15 @@
 <img src="images/svg/header.svg"></img>
 
+## ⚡️ A Few Quick Facts
+
+- 🔭 I’m currently working as a Machine Learning Engineer at **[TensorLabs](https://tensorlabs.io/)**
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+  - 📊 Machine Learning & Data Science
+  - 🖼 NLP
+  - 🤖 Tabular Data
+- 📝 I write technical blogs and articles on Medium and LinkedIn Newsletter
+- 💬 Ask me about Python, ML, DL, CV, NLP, LLMs, SLMs
+
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ahmad-suhail) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@ahmadsuhail10) [![Gmail](https://img.shields.io/badge/Gmail-f5f0f0?logo=gmail&logoColor=red)](ahmadsuhailofficial@gmail.com)
 <hr/>
