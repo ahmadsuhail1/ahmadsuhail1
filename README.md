@@ -82,9 +82,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahmadsuhail1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' align=center />
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ahmadsuhail1&icon=5&color=0)](https://visitcount.itsvg.in)
